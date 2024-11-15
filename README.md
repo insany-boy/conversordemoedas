@@ -101,8 +101,3 @@ Se você deseja contribuir com melhorias ou relatar um erro, fique à vontade pa
    ```bash
    git push origin minha-branch
 5. Abra um **Pull request** para a branch principal
-    
-
-
-  
-
